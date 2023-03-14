@@ -2,7 +2,7 @@
 
 ## Explications à propos de cette image docker-compose mongodb mongo-express :
 
-- [**version**](https://docs.docker.com/compose/compose-file/) : '3.8' -> Détermine la version du fichier compose, plus d’infos sur .
+- [**version**](https://docs.docker.com/compose/compose-file/) : Détermine la version du fichier compose, plus d’infos sur .
 
 - [**services**](https://docs.docker.com/engine/swarm/how-swarm-mode-works/services/) : On définit 2 services *"mongodb"* et *"mongo-express"*
 
